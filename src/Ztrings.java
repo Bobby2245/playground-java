@@ -1,5 +1,5 @@
-public class StrIngzzzz {
-    public static void main(String[] args) {
+public class Ztrings {
+    public static  void main(String[] args) {
 
         //Java Strings
         String txt = "Hello World";//all referred to this String
@@ -19,7 +19,7 @@ public class StrIngzzzz {
         String lastName = "Boateng";
         System.out.println(firstName + " " + lastName);
 
-        // .concat() alternative
+        // .concat() alternative to "+"
         /*String firstName = "Benjamin";
         String lastName = "Boateng";
         System.out.println(firstName.concat(lastName));*/
@@ -36,6 +36,8 @@ public class StrIngzzzz {
            \f = Form Feed
 
          */
+
+
 
 
 
